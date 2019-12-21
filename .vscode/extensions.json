@@ -1,0 +1,17 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "jaymorrow.NodeAssertionSnippets",
+    "joelday.docthis",
+    "leizongmin.node-module-intellisense",
+    "miramac.vscode-exec-node",
+    "msjsdiag.debugger-for-chrome",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "waderyan.nodejs-extension-pack",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
